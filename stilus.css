@@ -1,0 +1,14 @@
+html{
+    background-color: white;
+}
+body{
+    background-color: rgb(135, 168, 168);
+    font-size: 20px;
+    margin-right: 5%;
+    margin-left: 5%;
+   
+}
+img{
+    float: right;
+    width: 150px;
+}
